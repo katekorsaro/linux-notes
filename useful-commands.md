@@ -7,6 +7,7 @@
   - job body
   ctrl-d to save and run
   - **scrot**: taking screenshot from CLI
+  - **zathura**: pdf reader with vim navigation, very lightweight
 
 # funny things
 - **cmatrix**: cool "screen saver" à-la matrix
