@@ -6,6 +6,7 @@
   - at XXXX (e.g. 0859, 1245)
   - job body
   ctrl-d to save and run
+  - **scrot**: taking screenshot from CLI
 
 # funny things
 - **cmatrix**: cool "screen saver" à-la matrix
