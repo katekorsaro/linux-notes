@@ -1,3 +1,6 @@
+# system commands
+- **setxbdmap us**: set keyboard while in X
+
 # utilities
 - **mc**: midnight commander, file manager
 - **jq**: command line json processor
