@@ -6,9 +6,9 @@
 **jq**: command line json processor
 **btop**: visual resource monitor
 **at**: scheduling a one-time job
-	at XXXX (e.g. 0859, 1245)
-	job body
-	ctrl-d to save and run
+    at XXXX (e.g. 0859, 1245)
+    job body
+    ctrl-d to save and run
 **scrot**: taking screenshot from CLI
 **zathura**: pdf reader with vim navigation, very lightweight
 **rofi**: launcher. for programs, but also for custom scripts
@@ -21,6 +21,9 @@
 **fish**: friendly user shell
 **bk**: tui epub reader
 **ncspot**: tui spotify
+**ranger**: file mananger with vi movement
+**vlc**: to listen to radio stream (and more)
+**slides**: to transform MD files to simple slides
 
 # funny things
 **cmatrix**: cool "screen saver" à-la matrix
