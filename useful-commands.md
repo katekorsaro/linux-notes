@@ -24,6 +24,7 @@
 **ranger**: file mananger with vi movement
 **vlc**: to listen to radio stream (and more)
 **slides**: to transform MD files to simple slides
+**toot**: mastodon TUI client
 
 # funny things
 **cmatrix**: cool "screen saver" à-la matrix
