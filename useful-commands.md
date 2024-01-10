@@ -23,8 +23,9 @@
 **ncspot**: tui spotify
 **ranger**: file mananger with vi movement
 **vlc**: to listen to radio stream (and more)
-**slides**: to transform MD files to simple slides
+**slides**: to transform MD files to simple slides (done in go... need install go first)
 **toot**: mastodon TUI client
+**guvcview**: to test the webcam
 
 # funny things
 **cmatrix**: cool "screen saver" à-la matrix
