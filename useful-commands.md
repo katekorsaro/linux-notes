@@ -26,10 +26,14 @@
 **slides**: to transform MD files to simple slides (done in go... need install go first)
 **toot**: mastodon TUI client
 **guvcview**: to test the webcam
+**lazygit**: tui git manager (very very usefull)
+**tty-clock**: tui clock
+**calc**: cli calculator
 
 # funny things
 **cmatrix**: cool "screen saver" à-la matrix
 **neofectch**: cool system informatio display insice CLI
+**cbonsai**: grows a bansai tree inside the terminal
 
 # community and collaboration
 **hw-probe**: anonimously collect hw data and share with community, useful to find if computer works with linux
