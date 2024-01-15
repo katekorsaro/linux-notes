@@ -29,6 +29,10 @@
 **lazygit**: tui git manager (very very usefull)
 **tty-clock**: tui clock
 **calc**: cli calculator
+**taskwarrior**: task management
+**taskwarrior-tui**: taskwarrior tui made in rust
+**csvlens**: csv file viewer done in rust of course
+**dua**: disk usage analyzer
 
 # funny things
 **cmatrix**: cool "screen saver" à-la matrix
