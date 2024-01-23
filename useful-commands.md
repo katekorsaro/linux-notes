@@ -33,6 +33,7 @@
 **taskwarrior-tui**: taskwarrior tui made in rust
 **csvlens**: csv file viewer done in rust of course
 **dua**: disk usage analyzer
+**timeshift**: backup and restore utility
 
 # funny things
 **cmatrix**: cool "screen saver" à-la matrix
